@@ -1,0 +1,59 @@
+# Nothing's Carved In Stone – Wonderer
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.78] Everybody wants to know the secret
+[00:11.73] People try and try to make it meaningful
+[00:31.73] 
+[00:46.86] Time after time, another story
+[00:50.85] You've heard it all, it could be boring
+[00:54.70] A boy and girl, a special journey
+[00:58.42] The scent of spring, her hair was flowing
+[01:05.27] (And yet again)
+[01:12.77] 
+[01:10.07] The summer sun delivers damage
+[01:13.86] Unending need, a test of patience
+[01:17.67] A falling out, it can't be salvaged
+[01:21.40] And with the snow, it ends in silence
+[01:39.90] 
+[01:24.97] Maybe it all was meant to be
+[01:28.24] After all, what's happened can't be undone
+[01:32.71] Pain is the pleasure to start anew
+[01:36.08] Only those who take the leap of faith will know
+[01:43.85] You'll know
+[01:49.35] 
+[01:47.32] Tomorrow comes without a stop, your time will come to be in front
+[01:51.41] Although right now the sorrow seems like it will never disappear
+[01:54.96] Tomorrow comes without a stop your time will come to be in front
+[01:59.01] Although right now the sorrow seems like it will never disappear
+[02:31.01] 
+[02:02.88] Tomorrow comes, wow oh oh
+[02:06.51] The sorrow's gone, wow oh oh
+[02:10.36] Tomorrow comes, wow oh oh
+[02:14.19] The sorrow's gone, wow oh oh
+[02:28.19] 
+[02:26.10] Everybody wants to know the secret
+[02:29.87] People try and try to make a meaning
+[02:34.10] You wonder, slowly ponder
+[02:37.93] Searching through the binary
+[02:51.93] 
+[02:41.11] Keep scrolling on
+[02:43.01] Keep scrolling on
+[02:45.08] You try and try to understand it all
+[03:03.08] 
+[03:11.91] Tomorrow comes without a stop, your time will come to be in front
+[03:15.75] Although right now the sorrow seems like it will never disappear
+[03:19.56] Tomorrow comes without a stop, your time will come to be in front
+[03:23.56] Although right now the sorrow seems like it will never disappear
+[03:55.56] 
+[03:27.35] Tomorrow comes without a stop, your time will come to be in front
+[03:31.18] Although right now the sorrow seems like it will never disappear
+[03:34.83] Tomorrow comes without a stop, your time will come to be in front
+[03:38.92] Although right now the sorrow seems like it will never disappear
+[04:10.92] 
+[03:42.63] Tomorrow comes, wow oh oh
+[03:46.39] The sorrow's gone, wow oh oh
+[03:50.33] Tomorrow comes, wow oh oh
+[03:54.10] The sorrow's gone, wow oh oh
+```
