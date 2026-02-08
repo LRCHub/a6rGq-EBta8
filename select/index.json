@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Wonderer",
+  "base_artist": "Nothing's Carved In Stone",
+  "createdAt": "2026-02-08T15:56:26.022860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonderer",
+      "artist": "De Staat",
+      "has_synced": false,
+      "path": "select/01_Wonderer_De_Staat.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonderer",
+      "artist": "Bijan Mortazavi",
+      "has_synced": false,
+      "path": "select/02_Wonderer_Bijan_Mortazavi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wonderer",
+      "artist": "Nothing's Carved In Stone",
+      "has_synced": true,
+      "path": "select/03_Wonderer_Nothing's_Carved_In_Stone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wonderer",
+      "artist": "Vernon",
+      "has_synced": false,
+      "path": "select/04_Wonderer_Vernon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pray For Me, Part 1 [feat. NEONE the Wonderer]",
+      "artist": "Nubiyan Twist",
+      "has_synced": true,
+      "path": "select/05_Pray_For_Me,_Part_1_[feat._NEONE_the_Wonderer]_Nubiyan_Twist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wonderer",
+      "artist": "Melanie",
+      "has_synced": false,
+      "path": "select/06_The_Wonderer_Melanie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wonderer",
+      "artist": "Jon Walker",
+      "has_synced": true,
+      "path": "select/07_Wonderer_Jon_Walker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderer",
+      "artist": "Nothing's Carved In Stone",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderer_Nothing's_Carved_In_Stone.txt"
+    }
+  ]
+}
